@@ -1,0 +1,5 @@
+v1.4
+added khuzait steppe bowman
+overhauled banners
+new animations
++many, MANY more things i cant remember lol
